@@ -11,6 +11,8 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHW30bBpwT89Jthgzuf+ZLyTnKmaAjopb/GIcQig+GM7
 
 [https://github.com/FutureSmart-AI/futuresmart-agent-ui](https://github.com/FutureSmart-AI/futuresmart-agent-ui)
 
+git@github.com:FutureSmart-AI/futuresmart-agent-ui.git
 
+git clone git@github-work:FutureSmart-AI/futuresmart-agent-ui.git
 
 [https://d1.tfdl.net/public/2026-02-23/a49d5052-0a69-402e-8706-b399306e575c/futuresmart-agent-ui-main.zip](https://d1.tfdl.net/public/2026-02-23/a49d5052-0a69-402e-8706-b399306e575c/futuresmart-agent-ui-main.zip)
