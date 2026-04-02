@@ -11,14 +11,10 @@
             "id": "ffe7a7ecf84d9f73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -76,9 +72,207 @@
               "icon": "lucide-file",
               "title": "architecture for share"
             }
+          },
+          {
+            "id": "4e2f5e00b744fb63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reddit post.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "reddit post"
+            }
+          },
+          {
+            "id": "02a87ee4871b1f43",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "10d18c7d7fcb9406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sniperthink backend loom.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sniperthink backend loom"
+            }
+          },
+          {
+            "id": "7ffe096026a4dceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sniperthink frontend.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sniperthink frontend"
+            }
+          },
+          {
+            "id": "e9c49e78346ef8cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sample Question.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Question"
+            }
+          },
+          {
+            "id": "d0cdbe600a55a1af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sample Scenario Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Scenario Questions"
+            }
+          },
+          {
+            "id": "8cb4676cb2b99112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new questions"
+            }
+          },
+          {
+            "id": "0761f284375ea9eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "answers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "answers"
+            }
+          },
+          {
+            "id": "1c55085666c9a7b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "answers.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "answers"
+            }
+          },
+          {
+            "id": "b6ae4a1cb61c6cdc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "999e8280de6b1025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexical editor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lexical editor"
+            }
+          },
+          {
+            "id": "ef36464e364024c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cursor bug fix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cursor bug fix"
+            }
+          },
+          {
+            "id": "0e197413248ee0f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nginx and Pm2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nginx and Pm2"
+            }
+          },
+          {
+            "id": "fa231bfa5f8c50d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
+          },
+          {
+            "id": "ba0f4170eb9bb896",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -110,7 +304,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SNIPER",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +325,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,6 +414,26 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "e655775173731b70",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "2934dc9360269da5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -235,46 +450,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "096c4b68a00760a6",
+  "active": "ba0f4170eb9bb896",
   "lastOpenFiles": [
-    "Pasted image 20260225192017.png",
-    "Untitled 1.md",
-    "architecture for share.md",
-    "token.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/framer-motion/client/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/framer-motion/client/package.json",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/framer-motion/client",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/motion-dom/dist/es/animation/drivers/frame.mjs.map",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/motion-dom/dist/es/animation/drivers/frame.mjs",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/motion-dom/dist/es/animation/drivers",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/motion-dom/dist/es/layout/LayoutAnimationBuilder.mjs.map",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/motion-dom/dist/es/layout/LayoutAnimationBuilder.mjs",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/motion-dom/dist/es/layout",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/motion-dom/dist/es/render/utils/reduced-motion/state.mjs.map",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/motion-dom/dist/es/render/utils/reduced-motion/state.mjs",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/lucide-react/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/framer-motion/dom/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/framer-motion/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/motion-dom/LICENSE.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/axios/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/axios/lib/helpers/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/axios/lib/env/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/axios/lib/core/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/axios/lib/adapters/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/axios/MIGRATION_GUIDE.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/axios/CHANGELOG.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/math-intrinsics/CHANGELOG.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/has-tostringtag/CHANGELOG.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/has-symbols/CHANGELOG.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/es-errors/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/call-bind-apply-helpers/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/form-data/README.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/es-errors/CHANGELOG.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/call-bind-apply-helpers/CHANGELOG.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/form-data/CHANGELOG.md",
-    "The-Crafted-Chapter-A-Bookstore/node_modules/es-define-property/CHANGELOG.md"
+    "Untitled 3.md",
+    "cursor bug fix.md",
+    "Nginx and Pm2.md",
+    "lexical editor.md",
+    "new questions.md",
+    "answers.md",
+    "answers.pdf",
+    "Sample Scenario Questions.md",
+    "Sample Scenario Questions.pdf",
+    "Sample Question.md",
+    "Sample Question.pdf",
+    "sniperthink backend loom.md",
+    "sniperthink frontend.md",
+    "DEVLOG LOOM.md",
+    "loom_script.md",
+    "loom_script.pdf",
+    "devlog loom 2.md",
+    "DEVLOG LOOM.pdf",
+    "README.md",
+    "Assets/Sig Web Task - 1.md",
+    "Assets/Pasted image 20250423133410.png",
+    "Assets/Pasted image 20250423133054.png",
+    "Assets/Pasted image 20250423133020.png",
+    "Assets/Pasted image 20250423131607.png",
+    "Assets/Pasted image 20250419112129.png",
+    "Assets/Pasted image 20250419112034.png",
+    "Assets",
+    "ACM Work/Event Data Format.md",
+    "ACM Work/Changes To Do.md",
+    "ACM Work",
+    "Main/umm unArranged/game dev/Uni 1.md",
+    "Main/umm unArranged/To do.md",
+    "Main/umm unArranged/Search for item.md",
+    "Main/umm unArranged/PYTHON REPORT.md",
+    "Main/umm unArranged/Nut data readme.md",
+    "Main/umm unArranged/KYR chatbot.md",
+    "Main/umm unArranged/Nut Cal data schema.md",
+    "Main/umm unArranged/java setup.md",
+    "Main/umm unArranged/game dev",
+    "Main/umm unArranged/Event.md",
+    "Main/umm unArranged",
+    "Main/ReMern",
+    "Untitled.canvas",
+    "Pasted image 20260225192017.png"
   ]
 }

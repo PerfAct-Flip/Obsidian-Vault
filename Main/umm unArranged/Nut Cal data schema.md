@@ -1,0 +1,31 @@
+Here is the updated complete list:
+
+- energy
+- protein
+- fat
+- saturated-fat
+- carbohydrate
+- sugars
+- dietary-fibre
+- sodium
+- potassium
+- trans-fat
+- polyunsaturated-fat
+- monounsaturated-fat
+- calcium
+- vitamin-e
+- vitamin-b3
+- magnesium
+- vitamin-b1
+- vitamin-b2
+- vitamin-b6
+- vitamin-b9
+- vitamin-c
+- iron
+- phosphorus
+- zinc
+- manganese
+- vitamin-k
+- vitamin-a
+- starch
+- omega-3-fatty-acid
